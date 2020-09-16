@@ -8,5 +8,3 @@ function foo(n) {
 
     return division ? `The number is divisible by ${division}` : `Not divisible`
 }
-
-console.log(foo(15)) 
