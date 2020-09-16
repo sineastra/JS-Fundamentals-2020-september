@@ -1,0 +1,80 @@
+{
+    // Place your JS workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and
+    // description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope
+    // is left empty or omitted, the snippet gets applied to all languages. The prefix is what is
+    // used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+    // $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders.
+    // Placeholders with the same ids are connected.
+    // Example:
+    // "Print to console": {
+    // 	"scope": "javascript,typescript",
+    // 	"prefix": "log",
+    // 	"body": [
+    // 		"console.log('$1');",
+    // 		"$2"
+    // 	],
+    // 	"description": "Log output to console"
+    // }
+    "console.log": {
+        "scope": "javascript,typescript",
+        "prefix": "cl",
+        "body": ["console.log($1)"],
+        "description": "Log output to console"
+    },
+    "console.error": {
+        "scope": "javascript,typescript",
+        "prefix": "ce",
+        "body": ["console.error($1)"],
+        "description": "Log error to console"
+    },
+    "arrow fn": {
+        "scope": "javascript,typescript",
+        "prefix": "ar",
+        "body": ["($1) => $2"],
+        "description": "arrow function"
+    },
+    "annon fn": {
+        "scope": "javascript,typescript",
+        "prefix": "an",
+        "body": ["function () {$1}"],
+        "description": "annon function"
+    },
+    "getByID": {
+        "scope": "javascript,typescript",
+        "prefix": "doci",
+        "body": ["document.getElementById(`$1`)"],
+        "description": "get HTML Element by ID"
+    },
+    "query Selector": {
+        "scope": "javascript,typescript",
+        "prefix": "docq",
+        "body": ["document.querySelector(`$1`)"],
+        "description": "get HTML Element by querySelector"
+    },
+    "unit test": {
+        "prefix": "desc",
+        "body": [
+            "describe(`$1`, () => {\r",
+            "    it(`$2`, () => {\r",
+            "        expect($3);\r",
+            "    })\r",
+            "});"
+        ],
+        "description": "a whole block of unit test"
+    },
+    "it expects": {
+        "prefix": "ite",
+        "body": ["it(`$1`, () => {\r", "    expect($2);\r", "});"],
+        "description": "a single IT piece of unit test without the describe "
+    },
+    "chai expect": {
+        "prefix": "chaie",
+        "body": ["const { expect } = require('chai');", "const testSuite = require('$1')\r\r"],
+        "description": "a single IT piece of unit test without the describe "
+    },
+    "export tests": {
+        "prefix": "mode",
+        "body": ["module.exports = function () {", "    return {", "        $1", "    }", "}"],
+        "description": "module.exports for unit testing"
+    }
+}

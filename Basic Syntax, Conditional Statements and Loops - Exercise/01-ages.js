@@ -20,5 +20,3 @@ function foo (x) {
             break;
     }
 }
-
-foo(100)
