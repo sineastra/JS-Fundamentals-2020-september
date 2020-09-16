@@ -12,5 +12,3 @@ function foo(n) {
         console.log(displayItem(i))
     }
 }
-
-foo(3)
