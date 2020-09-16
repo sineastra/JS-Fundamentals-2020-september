@@ -8,5 +8,3 @@ function foo(v1, v2) {
     return `${numbers.join(' ')}
 Sum: ${sum}`
 }
-
-console.log(foo(0, 26))
