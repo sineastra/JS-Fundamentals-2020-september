@@ -3,5 +3,3 @@ function foo (n) {
         console.log(`${n} X ${i} = ${n * i}`)
     }
 }
-
-foo(5)
