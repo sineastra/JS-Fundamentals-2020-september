@@ -23,10 +23,7 @@ function foo(number, type, day) {
     const result = types[type][day] * number
     if (type === "Students" && number >= 30) return display(result - result * 0.15)
     if (type === "Business" && number >= 100) return display(result - 10 * types[type][day])
-    if (type === "Business" && number >= 10 && number <= 20) return display(result - result * 0.05)
+    if (type === "Regular" && number >= 10 && number <= 20) return display(result - result * 0.05)
 
     return display(result)
 }
-
-console.log(foo(30, "Students", "Sunday"))
-console.log(foo(40, "Regular", "Saturday"))
