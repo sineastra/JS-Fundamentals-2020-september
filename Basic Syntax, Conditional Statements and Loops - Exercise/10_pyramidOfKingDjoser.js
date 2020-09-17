@@ -12,14 +12,16 @@ function foo(base, increment) {
         return a * a
     }
 
+    function increaseOuterMaterial() {
+        return (squareArea(currentStep) - squareArea(currentStep - 2)) * increment
+    }
+
     while (currentStep - 2 >= 1) {
         const reducedArea = squareArea(currentStep - 2)
         materials.Stone += reducedArea * increment
         stepCount % 5 === 0
-            ? (materials["Lapis Lazuli"] +=
-                  (squareArea(currentStep) - squareArea(currentStep - 2)) * increment)
-            : (materials.Marble += (squareArea(currentStep) - squareArea(currentStep - 2)) * increment)
-
+            ? (materials["Lapis Lazuli"] += increaseOuterMaterial())
+            : (materials.Marble += increaseOuterMaterial())
         stepCount += 1
         currentStep -= 2
     }
@@ -31,5 +33,3 @@ function foo(base, increment) {
     })
     console.log(`Final pyramid height: ${Math.floor(stepCount * increment)}`)
 }
-
-foo(23, 0.5)
