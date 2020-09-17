@@ -10,7 +10,5 @@ function foo(arr) {
         }
     }, [])
 
-    return longestSequences
+    return longestSequences.join(' ')
 }
-
-console.log(foo([4, 4, 4, 4, 1, 1, 1, 1]))
