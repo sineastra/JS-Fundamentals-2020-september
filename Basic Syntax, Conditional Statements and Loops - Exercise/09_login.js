@@ -17,4 +17,3 @@ function foo(arr) {
         }
     }
 }
-foo(["sunny", "rainy", "cloudy", "sunny", "not sunny"])
