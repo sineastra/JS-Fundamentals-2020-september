@@ -13,5 +13,3 @@ function foo(arr) {
 
     going.forEach(x => console.log(x))
 }
-
-foo(["Tom is going!", "Annie is going!", "Tom is going!", "Garry is going!", "Jerry is going!"])
