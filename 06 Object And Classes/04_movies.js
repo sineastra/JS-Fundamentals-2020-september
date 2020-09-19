@@ -1,9 +1,12 @@
 function foo(arr) {
     let movies = []
+    
     getMovie = value => movies.find(x => x.name === value)
+
     addProp = (prop, name, value) => {
         if (getMovie(name)) getMovie(name)[prop] = value
     }
+
     const actions = {
         addMovie: x => movies.push({ name: x }),
         directedBy: addProp.bind(undefined, "director"),
