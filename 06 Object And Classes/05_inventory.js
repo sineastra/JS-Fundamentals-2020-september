@@ -17,9 +17,7 @@ function foo(data) {
         .sort((x, y) => x.level - y.level)
         .forEach(x =>
             console.log(`Hero: ${x.name}
-level: ${x.level}
-items: ${x.items}`)
+level => ${x.level}
+items => ${x.items}`)
         )
 }
-
-foo(["Isacc / 25 / Apple, GravityGun", "Derek / 12 / BarrelVest, DestructionSword", "Hes / 1 / Desolator, Sentinel, Antara"])
