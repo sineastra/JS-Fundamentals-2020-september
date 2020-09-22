@@ -10,3 +10,27 @@ function foo(arr) {
     })
     return [...words.entries()].sort((x, y) => y[1] - x[1]).forEach(x => console.log(`${x[0]} - ${x[1]}`))
 }
+
+foo([
+    "this sentence",
+    "In",
+    "this",
+    "sentence",
+    "you",
+    "have",
+    "to",
+    "count",
+    "the",
+    "occurances",
+    "of",
+    "the",
+    "words",
+    "this",
+    "and",
+    "sentence",
+    "because",
+    "this",
+    "is",
+    "your",
+    "task",
+])
