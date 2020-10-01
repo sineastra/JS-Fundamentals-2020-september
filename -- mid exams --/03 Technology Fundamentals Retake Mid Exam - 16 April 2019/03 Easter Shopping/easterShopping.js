@@ -8,23 +8,26 @@ function foo(arr) {
         Place: place,
     }
     function visit(firstLast, numOfShops) {
-        if (!(Number(numOfShops) > shopList.length)) {
-            if (firstLast === "first") shopList.splice(0, Number(numOfShops))
-            else shopList.splice(-Number(numOfShops))
+        numOfShops = Number(numOfShops)
+        if (!(numOfShops > shopList.length)) {
+            if (firstLast === "first") shopList.splice(0, numOfShops)
+            else shopList.splice(-numOfShops)
         }
     }
 
-    function prefer(n1, n2) {
-        if (shopList[Number(n1)] !== undefined && shopList[Number(n2)] !== undefined) {
-            const temp = shopList[Number(n1)]
-            shopList[Number(n1)] = shopList[Number(n2)]
-            shopList[Number(n2)] = temp
+    function prefer(...args) {
+        args = args.map(x => Number(x))
+        if (shopList[args[0]] !== undefined && shopList[args[1]] !== undefined) {
+            const temp = shopList[args[0]]
+            shopList[args[0]] = shopList[args[1]]
+            shopList[args[1]] = temp
         }
     }
 
     function place(shop, index) {
-        if (shopList[Number(index) + 1] !== undefined) {
-            shopList.splice(Number(index) + 1, 0, shop)
+        index = Number(index)
+        if (shopList[index + 1] !== undefined) {
+            shopList.splice(index + 1, 0, shop)
         }
     }
 
