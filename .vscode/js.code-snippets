@@ -76,5 +76,10 @@
         "prefix": "mode",
         "body": ["module.exports = function () {", "    return {", "        $1", "    }", "}"],
         "description": "module.exports for unit testing"
+    },
+    "function open": {
+        "prefix": "as",
+        "body": ["($1) {\r", "    $2\r", "}"],
+        "description": "open lazy function"
     }
 }
