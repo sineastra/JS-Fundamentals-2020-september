@@ -1,0 +1,32 @@
+{
+    "author": "",
+    "bugs": {
+        "url": "https://github.com/Sineastra/JS-Fundamentals-2020-september/issues"
+    },
+    "dependencies": {
+        "eslint": "^7.10.0",
+        "prettier": "^2.1.2"
+    },
+    "description": "<h1 align=\"center\"> JS Advanced - септември 2020 <h1>\r <p align=\"center\">\r   <a href=\"https://softuni.bg/trainings/3133/js-fundamentals-september-2020\">\r     <img src=\"https://i.imgur.com/arAr8gZ.png\" />\r   </a>\r <p>",
+    "devDependencies": {},
+    "homepage": "https://github.com/Sineastra/JS-Fundamentals-2020-september#readme",
+    "license": "ISC",
+    "main": "index.js",
+    "name": "js-fundamentals",
+    "prettier": {
+        "arrowParens": "avoid",
+        "endOfLine": "lf",
+        "htmlWhitespaceSensitivity": "css",
+        "printWidth": 120,
+        "semi": false,
+        "tabWidth": 4
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Sineastra/JS-Fundamentals-2020-september.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "1.0.0"
+}

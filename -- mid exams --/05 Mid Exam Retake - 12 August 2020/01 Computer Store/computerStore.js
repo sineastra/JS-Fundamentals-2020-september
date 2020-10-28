@@ -29,3 +29,5 @@ Taxes: ${taxes.toFixed(2)}$
 Total price: ${totalPrice.toFixed(2)}$`)
     }
 }
+
+foo(['special'])
