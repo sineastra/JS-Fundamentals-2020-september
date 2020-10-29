@@ -23,6 +23,3 @@ function foo(arr) {
 
     console.log(`Won battles: ${wonBattles}. Energy left: ${energy}`)
 }
-
-// foo(["100", "10", "10", "10", "1", "2", "3", "73", "10"])
-foo(["200", "54", "14", "28", "13", "End of battle"])
