@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e829cecb-3d12-4874-82de-ca44ecc90bb7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/-- mid exams --/07 Mid Exam Retake - 07 April 2020/03 Moving Target/03. Moving Target_Problem_Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/-- mid exams --/07 Mid Exam Retake - 07 April 2020/03 Moving Target/movingTarget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/-- mid exams --/08 Mid Exam - 29 February 2020 Group 2/01 National Court/01. National Court_01. National Court.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/-- mid exams --/08 Mid Exam - 29 February 2020 Group 2/01 National Court/nationalCourt.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.movingTarget.js">
+  <component name="RunManager" selected="Node.js.nationalCourt.js">
     <configuration name="NodeJS" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" application-parameters="$FilePath$" node-parameters="$FilePath$" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -77,10 +77,10 @@
     <configuration name="counterStrike.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- mid exams --/07 Mid Exam Retake - 07 April 2020/01 Counter Strike/counterStrike.js" working-dir="$PROJECT_DIR$/../..">
       <method v="2" />
     </configuration>
-    <configuration name="disneylandJourney.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="softUni_September_2020/JS Fundamentals/-- mid exams --/04 Mid Exam Retake - 10 December 2019/01 Disneyland Journey/disneylandJourney.js" working-dir="$PROJECT_DIR$/../..">
+    <configuration name="movingTarget.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- mid exams --/07 Mid Exam Retake - 07 April 2020/03 Moving Target/movingTarget.js" working-dir="$PROJECT_DIR$/../..">
       <method v="2" />
     </configuration>
-    <configuration name="movingTarget.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- mid exams --/07 Mid Exam Retake - 07 April 2020/03 Moving Target/movingTarget.js" working-dir="$PROJECT_DIR$/../..">
+    <configuration name="nationalCourt.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- mid exams --/08 Mid Exam - 29 February 2020 Group 2/01 National Court/nationalCourt.js" working-dir="$PROJECT_DIR$/../..">
       <method v="2" />
     </configuration>
     <configuration name="shootForTheWin.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- mid exams --/07 Mid Exam Retake - 07 April 2020/02 Shoot For The Win/shootForTheWin.js" working-dir="$PROJECT_DIR$/../..">
@@ -91,19 +91,19 @@
     </configuration>
     <list>
       <item itemvalue="Node.js.NodeJS" />
-      <item itemvalue="Node.js.disneylandJourney.js" />
       <item itemvalue="Node.js.theLift.js" />
       <item itemvalue="Node.js.counterStrike.js" />
       <item itemvalue="Node.js.shootForTheWin.js" />
       <item itemvalue="Node.js.movingTarget.js" />
+      <item itemvalue="Node.js.nationalCourt.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.nationalCourt.js" />
         <item itemvalue="Node.js.movingTarget.js" />
         <item itemvalue="Node.js.shootForTheWin.js" />
         <item itemvalue="Node.js.counterStrike.js" />
         <item itemvalue="Node.js.theLift.js" />
-        <item itemvalue="Node.js.disneylandJourney.js" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +124,7 @@
       <workItem from="1603893878505" duration="4263000" />
       <workItem from="1603898152846" duration="273000" />
       <workItem from="1603898433595" duration="18914000" />
-      <workItem from="1603917370469" duration="13921000" />
+      <workItem from="1603917370469" duration="15634000" />
     </task>
     <servers />
   </component>
@@ -182,70 +182,70 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="315" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603917399521" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1604037924771">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1604039638243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604037924771" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1604037924771">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604039638243" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1604039638243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604037924771" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1604037924771">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604039638243" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1604039638243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604037924771" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1604037924771">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604039638243" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1604039638243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604037924771" />
-    <state width="1877" height="279" key="GridCell.Tab.1.bottom" timestamp="1604037924771">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604039638243" />
+    <state width="1877" height="279" key="GridCell.Tab.1.bottom" timestamp="1604039182717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604037924771" />
-    <state width="1877" height="279" key="GridCell.Tab.1.center" timestamp="1604037924771">
+    <state width="1877" height="279" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604039182717" />
+    <state width="1877" height="279" key="GridCell.Tab.1.center" timestamp="1604039182717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604037924771" />
-    <state width="1877" height="279" key="GridCell.Tab.1.left" timestamp="1604037924771">
+    <state width="1877" height="279" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604039182717" />
+    <state width="1877" height="279" key="GridCell.Tab.1.left" timestamp="1604039182717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604037924771" />
-    <state width="1877" height="279" key="GridCell.Tab.1.right" timestamp="1604037924771">
+    <state width="1877" height="279" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604039182717" />
+    <state width="1877" height="279" key="GridCell.Tab.1.right" timestamp="1604039182717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604037924771" />
-    <state width="1877" height="279" key="GridCell.Tab.2.bottom" timestamp="1604037924772">
+    <state width="1877" height="279" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604039182717" />
+    <state width="1877" height="279" key="GridCell.Tab.2.bottom" timestamp="1604039182717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604037924772" />
-    <state width="1877" height="279" key="GridCell.Tab.2.center" timestamp="1604037924772">
+    <state width="1877" height="279" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604039182717" />
+    <state width="1877" height="279" key="GridCell.Tab.2.center" timestamp="1604039182717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604037924772" />
-    <state width="1877" height="279" key="GridCell.Tab.2.left" timestamp="1604037924772">
+    <state width="1877" height="279" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604039182717" />
+    <state width="1877" height="279" key="GridCell.Tab.2.left" timestamp="1604039182717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604037924772" />
-    <state width="1877" height="279" key="GridCell.Tab.2.right" timestamp="1604037924772">
+    <state width="1877" height="279" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604039182717" />
+    <state width="1877" height="279" key="GridCell.Tab.2.right" timestamp="1604039182717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604037924772" />
-    <state width="1877" height="279" key="GridCell.Tab.3.bottom" timestamp="1604037924772">
+    <state width="1877" height="279" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604039182717" />
+    <state width="1877" height="279" key="GridCell.Tab.3.bottom" timestamp="1604039182717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604037924772" />
-    <state width="1877" height="279" key="GridCell.Tab.3.center" timestamp="1604037924772">
+    <state width="1877" height="279" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604039182717" />
+    <state width="1877" height="279" key="GridCell.Tab.3.center" timestamp="1604039182717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604037924772" />
-    <state width="1877" height="279" key="GridCell.Tab.3.left" timestamp="1604037924772">
+    <state width="1877" height="279" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604039182717" />
+    <state width="1877" height="279" key="GridCell.Tab.3.left" timestamp="1604039182717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604037924772" />
-    <state width="1877" height="279" key="GridCell.Tab.3.right" timestamp="1604037924772">
+    <state width="1877" height="279" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604039182717" />
+    <state width="1877" height="279" key="GridCell.Tab.3.right" timestamp="1604039182717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604037924772" />
+    <state width="1877" height="279" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604039182717" />
     <state x="247" y="62" width="1556" height="954" key="SettingsEditor" timestamp="1603920482723">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -299,21 +299,22 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/-- mid exams --/07 Mid Exam Retake - 07 April 2020/03 Moving Target/movingTarget.js</url>
-          <line>56</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/-- mid exams --/07 Mid Exam Retake - 07 April 2020/03 Moving Target/movingTarget.js</url>
           <line>1</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/-- mid exams --/08 Mid Exam - 29 February 2020 Group 2/01 National Court/nationalCourt.js</url>
+          <line>19</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/-- mid exams --/08 Mid Exam - 29 February 2020 Group 2/01 National Court/nationalCourt.js</url>
+          <line>1</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="NodeJSConfigurationType">
-        <watch expression="targets" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
