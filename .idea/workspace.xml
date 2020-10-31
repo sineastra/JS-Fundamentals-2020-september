@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e829cecb-3d12-4874-82de-ca44ecc90bb7" name="Default Changelist" comment="" />
+    <list default="true" id="e829cecb-3d12-4874-82de-ca44ecc90bb7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/-- mid exams --/09 Mid Exam - 29 February 2020 Group 1/03 Inventory/03. Inventory_03. Inventory - JS.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/-- mid exams --/09 Mid Exam - 29 February 2020 Group 1/03 Inventory/inventory.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +123,7 @@
       <workItem from="1603893878505" duration="4263000" />
       <workItem from="1603898152846" duration="273000" />
       <workItem from="1603898433595" duration="18914000" />
-      <workItem from="1603917370469" duration="22087000" />
+      <workItem from="1603917370469" duration="22424000" />
     </task>
     <servers />
   </component>
