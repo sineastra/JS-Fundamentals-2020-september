@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e829cecb-3d12-4874-82de-ca44ecc90bb7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/-- final exams --/Final Exam - 09 August 2020/03 Plant Discovery/03. Plant Discovery_Problem Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/-- final exams --/Final Exam - 09 August 2020/03 Plant Discovery/plantDiscovery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/01  Secret Chat/01. Secret Chat_Problem_Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/01  Secret Chat/secretChat.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,20 +67,20 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.plantDiscovery.js">
+  <component name="RunManager" selected="Node.js.secretChat.js">
     <configuration name="NodeJS" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" application-parameters="$FilePath$" node-parameters="$FilePath$" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" working-dir="$PROJECT_DIR$/../..">
       <method v="2" />
     </configuration>
-    <configuration name="adAstra.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam Retake - 15 August 2020/02 Ad Astra/adAstra.js" working-dir="$PROJECT_DIR$/../..">
-      <method v="2" />
-    </configuration>
     <configuration name="destinationMapper.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam - 09 August 2020/02 Destination Mapper/destinationMapper.js" working-dir="$PROJECT_DIR$/../..">
       <method v="2" />
     </configuration>
     <configuration name="plantDiscovery.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam - 09 August 2020/03 Plant Discovery/plantDiscovery.js" working-dir="$PROJECT_DIR$/../..">
+      <method v="2" />
+    </configuration>
+    <configuration name="secretChat.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/01  Secret Chat/secretChat.js" working-dir="$PROJECT_DIR$/../..">
       <method v="2" />
     </configuration>
     <configuration name="thePianist.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam Retake - 15 August 2020/03 The Pianist/thePianist.js" working-dir="$PROJECT_DIR$/../..">
@@ -92,19 +91,19 @@
     </configuration>
     <list>
       <item itemvalue="Node.js.NodeJS" />
-      <item itemvalue="Node.js.adAstra.js" />
       <item itemvalue="Node.js.thePianist.js" />
       <item itemvalue="Node.js.worldTour.js" />
       <item itemvalue="Node.js.destinationMapper.js" />
       <item itemvalue="Node.js.plantDiscovery.js" />
+      <item itemvalue="Node.js.secretChat.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.secretChat.js" />
         <item itemvalue="Node.js.plantDiscovery.js" />
         <item itemvalue="Node.js.destinationMapper.js" />
         <item itemvalue="Node.js.worldTour.js" />
         <item itemvalue="Node.js.thePianist.js" />
-        <item itemvalue="Node.js.adAstra.js" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +125,7 @@
       <workItem from="1603898152846" duration="273000" />
       <workItem from="1603898433595" duration="18914000" />
       <workItem from="1603917370469" duration="74579000" />
-      <workItem from="1606075273810" duration="6154000" />
+      <workItem from="1606075273810" duration="8899000" />
     </task>
     <servers />
   </component>
@@ -184,70 +183,70 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="315" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605817675207" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1606328780438">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1606333088402">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606328780438" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1606328780438">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606333088402" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1606333088402">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606328780438" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1606328780438">
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606333088402" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1606333088402">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606328780438" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1606328780438">
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606333088402" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1606333088402">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606328780438" />
-    <state width="1877" height="279" key="GridCell.Tab.1.bottom" timestamp="1606328599944">
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606333088402" />
+    <state width="1877" height="279" key="GridCell.Tab.1.bottom" timestamp="1606333088403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606328599944" />
-    <state width="1877" height="279" key="GridCell.Tab.1.center" timestamp="1606328599944">
+    <state width="1877" height="279" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606333088403" />
+    <state width="1877" height="279" key="GridCell.Tab.1.center" timestamp="1606333088402">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606328599944" />
-    <state width="1877" height="279" key="GridCell.Tab.1.left" timestamp="1606328599944">
+    <state width="1877" height="279" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606333088402" />
+    <state width="1877" height="279" key="GridCell.Tab.1.left" timestamp="1606333088402">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606328599944" />
-    <state width="1877" height="279" key="GridCell.Tab.1.right" timestamp="1606328599944">
+    <state width="1877" height="279" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606333088402" />
+    <state width="1877" height="279" key="GridCell.Tab.1.right" timestamp="1606333088403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606328599944" />
-    <state width="1877" height="279" key="GridCell.Tab.2.bottom" timestamp="1606328599944">
+    <state width="1877" height="279" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606333088403" />
+    <state width="1877" height="279" key="GridCell.Tab.2.bottom" timestamp="1606333088403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606328599944" />
-    <state width="1877" height="279" key="GridCell.Tab.2.center" timestamp="1606328599944">
+    <state width="1877" height="279" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606333088403" />
+    <state width="1877" height="279" key="GridCell.Tab.2.center" timestamp="1606333088403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606328599944" />
-    <state width="1877" height="279" key="GridCell.Tab.2.left" timestamp="1606328599944">
+    <state width="1877" height="279" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606333088403" />
+    <state width="1877" height="279" key="GridCell.Tab.2.left" timestamp="1606333088403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606328599944" />
-    <state width="1877" height="279" key="GridCell.Tab.2.right" timestamp="1606328599944">
+    <state width="1877" height="279" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606333088403" />
+    <state width="1877" height="279" key="GridCell.Tab.2.right" timestamp="1606333088403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606328599944" />
-    <state width="1877" height="279" key="GridCell.Tab.3.bottom" timestamp="1606328599945">
+    <state width="1877" height="279" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606333088403" />
+    <state width="1877" height="279" key="GridCell.Tab.3.bottom" timestamp="1606333088403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606328599945" />
-    <state width="1877" height="279" key="GridCell.Tab.3.center" timestamp="1606328599944">
+    <state width="1877" height="279" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606333088403" />
+    <state width="1877" height="279" key="GridCell.Tab.3.center" timestamp="1606333088403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606328599944" />
-    <state width="1877" height="279" key="GridCell.Tab.3.left" timestamp="1606328599944">
+    <state width="1877" height="279" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606333088403" />
+    <state width="1877" height="279" key="GridCell.Tab.3.left" timestamp="1606333088403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606328599944" />
-    <state width="1877" height="279" key="GridCell.Tab.3.right" timestamp="1606328599944">
+    <state width="1877" height="279" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606333088403" />
+    <state width="1877" height="279" key="GridCell.Tab.3.right" timestamp="1606333088403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606328599944" />
+    <state width="1877" height="279" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606333088403" />
     <state x="247" y="62" width="1556" height="954" key="SettingsEditor" timestamp="1603920482723">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -338,13 +337,20 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/-- final exams --/Final Exam - 09 August 2020/03 Plant Discovery/plantDiscovery.js</url>
-          <line>57</line>
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/-- final exams --/Final Exam - 09 August 2020/03 Plant Discovery/plantDiscovery.js</url>
           <line>1</line>
           <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/01  Secret Chat/secretChat.js</url>
+          <line>38</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/01  Secret Chat/secretChat.js</url>
+          <line>1</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="53" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
