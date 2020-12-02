@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e829cecb-3d12-4874-82de-ca44ecc90bb7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/02  Mirror Words/02. Mirror Words_Problem_Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/02  Mirror Words/mirrorWords.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/03 NFS3/03. Need for Speed III_Problem_Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/03 NFS3/nfs3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,17 +68,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.mirrorWords.js">
+  <component name="RunManager" selected="Node.js.nfs3.js">
     <configuration name="NodeJS" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" application-parameters="$FilePath$" node-parameters="$FilePath$" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" working-dir="$PROJECT_DIR$/../..">
       <method v="2" />
     </configuration>
-    <configuration name="destinationMapper.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam - 09 August 2020/02 Destination Mapper/destinationMapper.js" working-dir="$PROJECT_DIR$/../..">
+    <configuration name="mirrorWords.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/02  Mirror Words/mirrorWords.js" working-dir="$PROJECT_DIR$/../..">
       <method v="2" />
     </configuration>
-    <configuration name="mirrorWords.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/02  Mirror Words/mirrorWords.js" working-dir="$PROJECT_DIR$/../..">
+    <configuration name="nfs3.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/03 NFS3/nfs3.js" working-dir="$PROJECT_DIR$/../..">
       <method v="2" />
     </configuration>
     <configuration name="plantDiscovery.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam - 09 August 2020/03 Plant Discovery/plantDiscovery.js" working-dir="$PROJECT_DIR$/../..">
@@ -86,24 +87,24 @@
     <configuration name="secretChat.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/01  Secret Chat/secretChat.js" working-dir="$PROJECT_DIR$/../..">
       <method v="2" />
     </configuration>
-    <configuration name="worldTour.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam - 09 August 2020/01 World Tour/worldTour.js" working-dir="$PROJECT_DIR$/../..">
+    <configuration name="test.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$/../..">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Node.js.NodeJS" />
-      <item itemvalue="Node.js.worldTour.js" />
-      <item itemvalue="Node.js.destinationMapper.js" />
       <item itemvalue="Node.js.plantDiscovery.js" />
       <item itemvalue="Node.js.secretChat.js" />
       <item itemvalue="Node.js.mirrorWords.js" />
+      <item itemvalue="Node.js.nfs3.js" />
+      <item itemvalue="Node.js.test.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.nfs3.js" />
+        <item itemvalue="Node.js.test.js" />
         <item itemvalue="Node.js.mirrorWords.js" />
         <item itemvalue="Node.js.secretChat.js" />
         <item itemvalue="Node.js.plantDiscovery.js" />
-        <item itemvalue="Node.js.destinationMapper.js" />
-        <item itemvalue="Node.js.worldTour.js" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +126,10 @@
       <workItem from="1603898152846" duration="273000" />
       <workItem from="1603898433595" duration="18914000" />
       <workItem from="1603917370469" duration="74579000" />
-      <workItem from="1606075273810" duration="14688000" />
+      <workItem from="1606075273810" duration="19031000" />
+      <workItem from="1606421238666" duration="4670000" />
+      <workItem from="1606902492045" duration="1496000" />
+      <workItem from="1606904026793" duration="2462000" />
     </task>
     <servers />
   </component>
@@ -153,124 +157,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="876" y="459" key="#Custom_Plugin_Repositories" timestamp="1603898395878">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="876" y="459" key="#Custom_Plugin_Repositories/0.0.1920.1040@0.0.1920.1040" timestamp="1603898395878" />
-    <state x="586" y="198" key="#Inspections" timestamp="1603889879046">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1603889879046" />
-    <state x="187" y="136" key="#Live_Templates" timestamp="1603891625144">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="187" y="136" key="#Live_Templates/0.0.1920.1040@0.0.1920.1040" timestamp="1603891625144" />
-    <state x="414" y="175" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603900503277">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="414" y="175" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603900503277" />
-    <state x="740" y="249" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1603900264919">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="249" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603900264919" />
-    <state x="728" y="350" width="463" height="496" key="#com.intellij.tools.ToolEditorDialog" timestamp="1603913712262">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="728" y="350" width="463" height="496" key="#com.intellij.tools.ToolEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603913712262" />
-    <state x="777" y="315" key="FileChooserDialogImpl" timestamp="1605817675207">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="777" y="315" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605817675207" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1606339845178">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606339845178" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1606339845178">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606339845178" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1606339845178">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606339845178" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1606339845178">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606339845178" />
-    <state width="1877" height="279" key="GridCell.Tab.1.bottom" timestamp="1606338185742">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606338185742" />
-    <state width="1877" height="279" key="GridCell.Tab.1.center" timestamp="1606338185741">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606338185741" />
-    <state width="1877" height="279" key="GridCell.Tab.1.left" timestamp="1606338185741">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606338185741" />
-    <state width="1877" height="279" key="GridCell.Tab.1.right" timestamp="1606338185742">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606338185742" />
-    <state width="1877" height="279" key="GridCell.Tab.2.bottom" timestamp="1606338185742">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606338185742" />
-    <state width="1877" height="279" key="GridCell.Tab.2.center" timestamp="1606338185742">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606338185742" />
-    <state width="1877" height="279" key="GridCell.Tab.2.left" timestamp="1606338185742">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606338185742" />
-    <state width="1877" height="279" key="GridCell.Tab.2.right" timestamp="1606338185742">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606338185742" />
-    <state width="1877" height="279" key="GridCell.Tab.3.bottom" timestamp="1606338185742">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606338185742" />
-    <state width="1877" height="279" key="GridCell.Tab.3.center" timestamp="1606338185742">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606338185742" />
-    <state width="1877" height="279" key="GridCell.Tab.3.left" timestamp="1606338185742">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606338185742" />
-    <state width="1877" height="279" key="GridCell.Tab.3.right" timestamp="1606338185742">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="279" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606338185742" />
-    <state x="247" y="62" width="1556" height="954" key="SettingsEditor" timestamp="1603920482723">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="247" y="62" width="1556" height="954" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603920482723" />
-    <state x="854" y="255" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1603897678236">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="854" y="255" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1920.1040@0.0.1920.1040" timestamp="1603897678236" />
-    <state x="667" y="76" width="585" height="888" key="find.popup" timestamp="1603890747951">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="667" y="76" width="585" height="888" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603890747951" />
-    <state width="600" height="428" key="javadoc.popup" timestamp="1603889846435">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="600" height="428" key="javadoc.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603889846435" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1603900111261">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603900111261" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604735231625">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604735231625" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -343,20 +229,32 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/01  Secret Chat/secretChat.js</url>
           <line>1</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/02  Mirror Words/mirrorWords.js</url>
-          <line>47</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="54" />
+          <line>1</line>
+          <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/02  Mirror Words/mirrorWords.js</url>
+          <url>file://$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/03 NFS3/nfs3.js</url>
+          <line>69</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/03 NFS3/nfs3.js</url>
           <line>1</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="55" />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/test.js</url>
+          <line>28</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/test.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
