@@ -20,10 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e829cecb-3d12-4874-82de-ca44ecc90bb7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/03 NFS3/03. Need for Speed III_Problem_Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/03 NFS3/nfs3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/-- final exams --/other exam tasks/atm machine/00. ATM Machine.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/-- final exams --/other exam tasks/atm machine/atmMachine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/-- final exams --/other exam tasks/tickets scan/00. Tickets Scan.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/-- final exams --/other exam tasks/tickets scan/ticketsScan.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +54,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/-- final exams --/other exam tasks" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../_ReactJS/--- Git Projects ----/Catchy/catchy" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -68,43 +71,43 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.nfs3.js">
+  <component name="RunManager" selected="Node.js.warehouseMachine.js">
     <configuration name="NodeJS" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" application-parameters="$FilePath$" node-parameters="$FilePath$" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" working-dir="$PROJECT_DIR$/../..">
       <method v="2" />
     </configuration>
-    <configuration name="mirrorWords.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/02  Mirror Words/mirrorWords.js" working-dir="$PROJECT_DIR$/../..">
+    <configuration name="atmMachine.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/other exam tasks/atm machine/atmMachine.js" working-dir="$PROJECT_DIR$/../..">
       <method v="2" />
     </configuration>
     <configuration name="nfs3.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/03 NFS3/nfs3.js" working-dir="$PROJECT_DIR$/../..">
       <method v="2" />
     </configuration>
-    <configuration name="plantDiscovery.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam - 09 August 2020/03 Plant Discovery/plantDiscovery.js" working-dir="$PROJECT_DIR$/../..">
-      <method v="2" />
-    </configuration>
-    <configuration name="secretChat.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/01  Secret Chat/secretChat.js" working-dir="$PROJECT_DIR$/../..">
-      <method v="2" />
-    </configuration>
     <configuration name="test.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$/../..">
+      <method v="2" />
+    </configuration>
+    <configuration name="ticketsScan.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/other exam tasks/tickets scan/ticketsScan.js" working-dir="$PROJECT_DIR$/../..">
+      <method v="2" />
+    </configuration>
+    <configuration name="warehouseMachine.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/other exam tasks/warehouse machine/warehouseMachine.js" working-dir="$PROJECT_DIR$/../..">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Node.js.NodeJS" />
-      <item itemvalue="Node.js.plantDiscovery.js" />
-      <item itemvalue="Node.js.secretChat.js" />
-      <item itemvalue="Node.js.mirrorWords.js" />
       <item itemvalue="Node.js.nfs3.js" />
       <item itemvalue="Node.js.test.js" />
+      <item itemvalue="Node.js.atmMachine.js" />
+      <item itemvalue="Node.js.ticketsScan.js" />
+      <item itemvalue="Node.js.warehouseMachine.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.warehouseMachine.js" />
+        <item itemvalue="Node.js.ticketsScan.js" />
+        <item itemvalue="Node.js.atmMachine.js" />
         <item itemvalue="Node.js.nfs3.js" />
         <item itemvalue="Node.js.test.js" />
-        <item itemvalue="Node.js.mirrorWords.js" />
-        <item itemvalue="Node.js.secretChat.js" />
-        <item itemvalue="Node.js.plantDiscovery.js" />
       </list>
     </recent_temporary>
   </component>
@@ -255,6 +258,30 @@
           <url>file://$PROJECT_DIR$/test.js</url>
           <line>1</line>
           <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/-- final exams --/other exam tasks/atm machine/atmMachine.js</url>
+          <line>1</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/-- final exams --/other exam tasks/tickets scan/ticketsScan.js</url>
+          <line>1</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/-- final exams --/other exam tasks/warehouse machine/warehouseMachine.js</url>
+          <line>52</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/-- final exams --/other exam tasks/warehouse machine/warehouseMachine.js</url>
+          <line>1</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="73" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
