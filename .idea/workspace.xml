@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e829cecb-3d12-4874-82de-ca44ecc90bb7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/-- final exams --/Final Exam - 04 April 2020 Group 2/02 Fancy Barcodes/02. Fancy Barcodes_Problem Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/-- final exams --/Final Exam - 04 April 2020 Group 2/02 Fancy Barcodes/fancyBarcodes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/-- final exams --/Final Exam - 04 April 2020 Group 2/03 Heroes of Code and Logic VII/03. Heroes of Code and Logic VII_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/-- final exams --/Final Exam - 04 April 2020 Group 2/03 Heroes of Code and Logic VII/heroes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,17 +68,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.fancyBarcodes.js">
+  <component name="RunManager" selected="Node.js.heroes.js">
     <configuration name="NodeJS" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" application-parameters="$FilePath$" node-parameters="$FilePath$" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" working-dir="$PROJECT_DIR$/../..">
       <method v="2" />
     </configuration>
-    <configuration name="atmMachine.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/other exam tasks/atm machine/atmMachine.js" working-dir="$PROJECT_DIR$/../..">
+    <configuration name="fancyBarcodes.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam - 04 April 2020 Group 2/02 Fancy Barcodes/fancyBarcodes.js" working-dir="$PROJECT_DIR$/../..">
       <method v="2" />
     </configuration>
-    <configuration name="fancyBarcodes.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam - 04 April 2020 Group 2/02 Fancy Barcodes/fancyBarcodes.js" working-dir="$PROJECT_DIR$/../..">
+    <configuration name="heroes.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam - 04 April 2020 Group 2/03 Heroes of Code and Logic VII/heroes.js" working-dir="$PROJECT_DIR$/../..">
       <method v="2" />
     </configuration>
     <configuration name="passwordReset.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam - 04 April 2020 Group 2/01 Password Reset/passwordReset.js" working-dir="$PROJECT_DIR$/../..">
@@ -92,19 +92,19 @@
     </configuration>
     <list>
       <item itemvalue="Node.js.NodeJS" />
-      <item itemvalue="Node.js.atmMachine.js" />
       <item itemvalue="Node.js.ticketsScan.js" />
       <item itemvalue="Node.js.warehouseMachine.js" />
       <item itemvalue="Node.js.passwordReset.js" />
       <item itemvalue="Node.js.fancyBarcodes.js" />
+      <item itemvalue="Node.js.heroes.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.heroes.js" />
         <item itemvalue="Node.js.fancyBarcodes.js" />
         <item itemvalue="Node.js.passwordReset.js" />
         <item itemvalue="Node.js.warehouseMachine.js" />
         <item itemvalue="Node.js.ticketsScan.js" />
-        <item itemvalue="Node.js.atmMachine.js" />
       </list>
     </recent_temporary>
   </component>
@@ -273,6 +273,12 @@
           <line>1</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/-- final exams --/Final Exam - 04 April 2020 Group 2/03 Heroes of Code and Logic VII/heroes.js</url>
+          <line>1</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="75" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
