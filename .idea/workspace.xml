@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e829cecb-3d12-4874-82de-ca44ecc90bb7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/-- final exams --/other exam tasks/atm machine/00. ATM Machine.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/-- final exams --/other exam tasks/atm machine/atmMachine.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/-- final exams --/other exam tasks/tickets scan/00. Tickets Scan.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/-- final exams --/other exam tasks/tickets scan/ticketsScan.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/-- final exams --/Final Exam - 04 April 2020 Group 2/01 Password Reset/01. Password Reset_01.Password Reset.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/-- final exams --/Final Exam - 04 April 2020 Group 2/01 Password Reset/passwordReset.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +68,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.warehouseMachine.js">
+  <component name="RunManager" selected="Node.js.passwordReset.js">
     <configuration name="NodeJS" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" application-parameters="$FilePath$" node-parameters="$FilePath$" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -84,7 +81,7 @@
     <configuration name="nfs3.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam Retake - 10 April 2020/03 NFS3/nfs3.js" working-dir="$PROJECT_DIR$/../..">
       <method v="2" />
     </configuration>
-    <configuration name="test.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$/../..">
+    <configuration name="passwordReset.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/Final Exam - 04 April 2020 Group 2/01 Password Reset/passwordReset.js" working-dir="$PROJECT_DIR$/../..">
       <method v="2" />
     </configuration>
     <configuration name="ticketsScan.js" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/-- final exams --/other exam tasks/tickets scan/ticketsScan.js" working-dir="$PROJECT_DIR$/../..">
@@ -96,18 +93,18 @@
     <list>
       <item itemvalue="Node.js.NodeJS" />
       <item itemvalue="Node.js.nfs3.js" />
-      <item itemvalue="Node.js.test.js" />
       <item itemvalue="Node.js.atmMachine.js" />
       <item itemvalue="Node.js.ticketsScan.js" />
       <item itemvalue="Node.js.warehouseMachine.js" />
+      <item itemvalue="Node.js.passwordReset.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.passwordReset.js" />
         <item itemvalue="Node.js.warehouseMachine.js" />
         <item itemvalue="Node.js.ticketsScan.js" />
         <item itemvalue="Node.js.atmMachine.js" />
         <item itemvalue="Node.js.nfs3.js" />
-        <item itemvalue="Node.js.test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -270,12 +267,6 @@
           <line>1</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/-- final exams --/other exam tasks/warehouse machine/warehouseMachine.js</url>
-          <line>52</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/-- final exams --/other exam tasks/warehouse machine/warehouseMachine.js</url>
