@@ -1,4 +1,4 @@
-<h1 align="center"> JS Advanced - септември 2020 <h1>
+<h1 align="center"> JS Fundamentals - септември 2020 <h1>
 <p align="center">
   <a href="https://softuni.bg/trainings/3133/js-fundamentals-september-2020">
     <img src="https://i.imgur.com/arAr8gZ.png" />
