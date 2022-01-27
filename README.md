@@ -16,4 +16,4 @@
 <h3 align="center">About the solutions...</h3>
 
 - Every solution is 100/100 in judge, otherwise it wont be uploaded.
-- This is <h3>NOT</h3> Code Review code by any means. Every task will be written by the most simple and jibberish way I can think of. Nothing will be refactored. The purpose is the people who study Fundamentals to be able to use a 100/100 code to find their mistakes which will be hard if I write advanced code. This is and the reason why many variables are described properly. Hehe.. :-)
+- This is <h3>NOT</h3> Code Review code by any means. Every task will be written by the most simple and jibberish way I can think of. Nothing will be refactored. The purpose is the people who study Fundamentals to be able to use a 100/100 code to find their mistakes which will be hard if I write little more "advanced code". This is and the reason why many variables are described properly. Hehe.. :-)
